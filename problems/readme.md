@@ -13,16 +13,16 @@ This repo is a self-paced curriculum for learning GPU programming with CUDA — 
 | Level | Topic | Problems | Status |
 |:-----:|-------|:--------:|:------:|
 | 0 | Setup & Foundations | 3 | ✅ Completed |
-| 1 | Map Pattern (Element-wise Ops) | 18 | ✅ Completed |
-| 2 | Reductions | 12 | ✅ Completed |
-| 3 | Memory Patterns | 11 | ✅ Completed |
-| 4 | Scan Pattern (Prefix Sums) | 10 | ✅ Completed |
-| 5 | Stencil Pattern | 10 | ✅ Completed |
-| 6 | Advanced Patterns | 13 | ✅ Completed |
-| 7 | Optimization Masterclass | 14 | ✅ Completed |
-| 8 | Production-Quality Code | 10 | ✅ Completed |
-| 9 | Domain Applications | 10 | ✅ Completed |
-| **Total** | | **111** | **✅ All levels completed** |
+| 1 | Map Pattern (Element-wise Ops) | 18 | Incomplete |
+| 2 | Reductions | 12 | Incomplete |
+| 3 | Memory Patterns | 11 | Incomplete |
+| 4 | Scan Pattern (Prefix Sums) | 10 | Incomplete |
+| 5 | Stencil Pattern | 10 | Incomplete |
+| 6 | Advanced Patterns | 13 | Incomplete |
+| 7 | Optimization Masterclass | 14 | Incomplete |
+| 8 | Production-Quality Code | 10 | Incomplete |
+| 9 | Domain Applications | 10 | Incomplete |
+| **Total** | | **111** | **Incomplete** |
 
 ---
 
